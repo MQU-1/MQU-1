@@ -52,10 +52,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" />
-</picture>
-
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-
 
 
 
