@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm MQU-1</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm mqu-1</h1>
 
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -10,19 +10,14 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=mqu-1&theme=github-dark&mode=dark" alt="mqu-1's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=mqu-1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mqu-1's GitHub Streak" width="49%" />
+  <a href="https://github.com/MQU-1"><img src="https://streak-stats.demolab.com/?user=mqu-1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mqu-1 GitHub streak" width="49%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=mqu-1&theme=github-dark&mode=dark" alt="Top Languages" />
+  <a href="https://github.com/MQU-1?tab=repositories"><img src="https://www.gitskins.com/api/section/stack?username=mqu-1&theme=github-dark&mode=dark" alt="Top languages across mqu-1 repositories" /></a>
 </p>
 
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark" alt="mqu-1's Activity Graph" />
-</p>
-
-
+<p align="center"><sub><a href="https://github.com/MQU-1">Contributions</a> · <a href="https://github.com/MQU-1?tab=repositories">Repositories</a> · <a href="https://github.com/MQU-1?tab=overview">Overview</a></sub></p>
 
 
 ## 🛠️ Languages & Tools
@@ -49,9 +44,6 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/mohammad-alqudah-09a08a2b6/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:m7mdalqudah2005@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-
-
-
-
+<p align="center">
+  <a href="https://github.com/MQU-1"><img src="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" alt="mqu-1 animated contribution snake" width="100%" /></a>
+</p>
