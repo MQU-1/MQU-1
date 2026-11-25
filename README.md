@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm mqu-1&theme=github-dark&mode</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm mqu-1</h1>
 
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/MQU-1/MQU-1/main/assets/banner.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💡 I can't decide between breaking into networks and building them — so I do both. Network security by night, computer science by day, zero formalities in between. If it has packets, pointers, or a terminal, I'm probably already in it (legally... mostly).
@@ -13,9 +13,6 @@
   <a href="https://github.com/MQU-1"><img src="https://streak-stats.demolab.com/?user=mqu-1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="mqu-1 GitHub streak" width="49%" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MQU-1?tab=repositories"><img src="https://www.gitskins.com/api/section/stack?username=mqu-1&theme=github-dark&mode=dark" alt="Top languages across mqu-1 repositories" /></a>
-</p>
 
 <p align="center"><sub><a href="https://github.com/MQU-1">Contributions</a> · <a href="https://github.com/MQU-1?tab=repositories">Repositories</a> · <a href="https://github.com/MQU-1?tab=overview">Overview</a></sub></p>
 
@@ -45,5 +42,5 @@
 <p align="center"><a href="https://www.linkedin.com/in/mohammad-alqudah-09a08a2b6/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:m7mdalqudah2005@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <p align="center">
-  <a href="https://github.com/MQU-1"><img src="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark&style=snake&pv=Co7ex4MG3HgdJhSL" alt="mqu-1 animated contribution snake" width="100%" /></a>
+  <a href="https://github.com/MQU-1"><img src="https://raw.githubusercontent.com/MQU-1/MQU-1/main/assets/contribution-snake.svg" alt="mqu-1 animated contribution snake" width="100%" /></a>
 </p>
