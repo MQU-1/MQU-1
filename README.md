@@ -16,9 +16,7 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=mqu-1&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=mqu-1&theme=github-dark&mode=dark&pv=Co7ex4MG3HgdJhSL" alt="mqu-1's GitHub Trophies" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=mqu-1&theme=github-dark&mode=dark" alt="mqu-1's Activity Graph" />
 </p>
