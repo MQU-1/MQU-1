@@ -4,7 +4,9 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+- 💡 I can't decide between breaking into networks and building them — so I do both. Network security by night, computer science by day, zero formalities in between. If it has packets, pointers, or a terminal, I'm probably already in it (legally... mostly).
+- 🔐 I like my coffee black and my packets captured.
+- 🧠 CS student by transcript, self-taught hacker by hobby — the two overlap more than my professors would like.
 
 
 ## 📊 GitHub Stats & Trophies
