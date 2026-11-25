@@ -43,4 +43,3 @@
   <img src="https://raw.githubusercontent.com/MQU-1/MQU-1/main/assets/contribution-snake.svg" alt="mqu-1 animated contribution snake" width="100%" />
 </p>
 
-<div style="background-image:url(https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg);width:48px;height:48px;display:inline-block;"></div>
