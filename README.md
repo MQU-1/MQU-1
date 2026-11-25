@@ -6,7 +6,6 @@
 ## 📌 About Me
 - 💡 I can't decide between breaking into networks and building them — so I do both. Network security by night, computer science by day, zero formalities in between. If it has packets, pointers, or a terminal, I'm probably already in it (legally... mostly).
 - 🔐 I like my coffee black and my packets captured.
-- 🧠 CS student by transcript, self-taught hacker by hobby — the two overlap more than my professors would like.
 
 
 ## 📊 GitHub Stats & Trophies
